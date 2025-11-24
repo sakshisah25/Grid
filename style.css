@@ -1,0 +1,46 @@
+/* .row{
+   
+    border: 1px solid black;
+   
+    } */
+.container{
+     display: grid;
+     grid-template-columns:repeat(23,1fr);
+     grid-template-rows: repeat(23,1fr);
+     height: 50vh;
+     width: 50vw;
+     margin: auto;
+  
+}
+#box6, #box7, #box8 ,#box15, #box16, #box17 ,
+#box28, #box29, #box30 ,#box31, #box32, #box33, 
+#box34, #box35, #box36, #box37, #box38, #box39,
+#box40,#box41,#box51,#box52,#box53,#box54,#box61,
+#box62,#box63,#box64 ,#box75, #box76, #box85, #box86,
+#box98, #box109 , #box121, #box124,#box125, #box129,
+#box130, #box132, #box143,#box146, #box147, #box148,
+#box152, #box153, #box154, #box155,
+#box166, #box169,#box170,#box176,#box177,
+#box189,#box196,#box197, #box203, #box204, #box213,#box213
+#box224, #box225, #box226, #box227, #box237,#box237
+#box246, #box247, #box248, #box249,#box250,
+#box259, #box260, #box261, #box262,#box263,#box264,
+#box265, #box266, #box267, #box268,#box269,
+#box270, #box271, #box272,#box281,#box282, #box283,
+#box284, #box285,#box291,#box292, #box293, #box294,#box303,
+#box304, #box305, #box306, #box307 ,#box315,#box316,#box325,
+#box326, #box327, #box328, #box329 ,#box338,#box348,#box349,
+#box350,  #box352,#box361, #box375, #box384,#box398,#box399,
+#box406,#box407,#box421, #box422, #box423, #box424,
+#box425, #box426, #box427, #box428, #box429, #box430,#box444,
+#box445, #box446, #box447,#box450, #box451, #box452, #box453,#box467,
+#box468, #box469,#box474, #box475, #box476,#box491,#box498
+{
+    padding: 80px;
+    background-color: black;
+}
+
+
+#box219, #box220{
+    background-color: red;
+}
